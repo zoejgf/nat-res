@@ -1,0 +1,15 @@
+{
+  "name": "zfortinc/328/Natural-Resources",
+  "authors": [
+    {
+      "name": "Zoe Fortin",
+      "email": "fortin.zoe@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  },
+  "autoload": {
+    "classmap": ["model/", "controller/"]
+  }
+}
